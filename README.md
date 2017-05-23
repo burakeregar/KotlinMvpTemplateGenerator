@@ -1,6 +1,8 @@
 # KotlinMvpTemplate
 Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
 
+[You can find related architecture repo here](https://github.com/burakeregar/KotlinMvpArchitecture)
+
 You need to copy all of the template files under 
 ../YourAndroidStudioDirectory/Contents/plugins/android/lib/templates/activities/KotlinMvpTemplate
 
@@ -17,9 +19,7 @@ Make sure that you write the correct package name
 ![2](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template2.png)
 
 Then magic will happen!
-
-![3](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template.gif)
-
+3.png
 
 
 
