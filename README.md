@@ -20,6 +20,8 @@ Make sure that you write the correct package name
 
 Then magic will happen!
 
+You just need to import 'R' and click on the "Make Project" to let Dagger create required injection classes. 
+
 ![3](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template3.png)
 
 # LICENSE
