@@ -10,14 +10,15 @@ Create your package.
 
 Now you are ready to create your classes from the template; 
 
-![1](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/mvp_template1.png)
+![1](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template1.png)
 
 Make sure that you write the correct package name
 
-![2](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/mvp_template2.png)
+![2](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template2.png)
 
 Then magic will happen!
 
+![3](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template.gif)
 
 
 
