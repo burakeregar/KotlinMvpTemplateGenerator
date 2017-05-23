@@ -1,4 +1,4 @@
-# KotlinMvpTemplate
+# KotlinMvpTemplateGenerator
 Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
 
 [You can find related architecture repo here](https://github.com/burakeregar/KotlinMvpArchitecture)
@@ -12,19 +12,19 @@ Create your package.
 
 Now you are ready to create your classes from the template; 
 
-![1](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template1.png)
+![1](https://github.com/burakeregar/KotlinMvpTemplateGenerator/blob/master/art/mvp_template1.png)
 
 Make sure that you write the correct package name
 
-![2](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template2.png)
+![2](https://github.com/burakeregar/KotlinMvpTemplateGenerator/blob/master/art/mvp_template2.png)
 
 Then magic will happen!
 
 You just need to import 'R' and click on the "Make Project" to let Dagger create required injection classes. 
 
-![3](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template3.png)
+![3](https://github.com/burakeregar/KotlinMvpTemplateGenerator/blob/master/art/mvp_template3.png)
 
-# LICENSE
+### LICENSE
 
 MIT License
 
