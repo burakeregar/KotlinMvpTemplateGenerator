@@ -16,12 +16,11 @@ Now you are ready to create your classes from the template;
 
 Make sure that you write the correct package name
 
-![2](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template3.png)
+![2](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template2.png)
 
 Then magic will happen!
 
-
-
+![3](https://github.com/burakeregar/KotlinMvpTemplate/blob/master/art/mvp_template3.png)
 
 
 
